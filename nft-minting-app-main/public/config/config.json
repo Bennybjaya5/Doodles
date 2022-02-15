@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x898340EbcF5Aa616BA84c39E08363E996D2E0b8C",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x898340EbcF5Aa616BA84c39E08363E996D2E0b8C",
+  "NETWORK": {
+    "NAME": "Ethereum Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Doodle",
+  "SYMBOL": "DOODLES",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/doodle-oocbmxooaf",
+  "SHOW_BACKGROUND": true
+}
